@@ -1,7 +1,8 @@
 # BuscaChelaApp
 
-Iniciando proyecto estudio/oportunidad
+Project Study/Oportunity  Busca Chela !
 
-React
-Java
-Mongo DB
+Front React  
+Java Spring boot  
+
+Mongo DB or who knows  
