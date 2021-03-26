@@ -25,6 +25,7 @@ public class SpringSecurity extends WebSecurityConfigurerAdapter {
 			 .httpBasic();
 		}*/
 	
+		@Override
 		protected void configure(HttpSecurity http) throws Exception {
 		        http
 		        .csrf().disable()   
